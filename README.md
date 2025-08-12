@@ -1,5 +1,4 @@
 # Say_Cheese
-An Idea about applying Photo Booth .
 
 <img width="2900" height="300" alt="glide" src="https://github.com/user-attachments/assets/9aef76a7-1425-451a-a39a-0bfe50fec07e" />
 
